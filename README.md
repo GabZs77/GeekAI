@@ -17,4 +17,4 @@
     <h1>🗝️ Como utilizar?</h1>
 </div>
 
-- Você precisa instalar a extensão (Tampermonkey)[https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo]
+- Você precisa instalar a extensão [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
