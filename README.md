@@ -3,10 +3,10 @@
 </div>
 
 > [!IMPORTANT]
-> Você não tem autorização de vender ou plágiar esse projeto, caso queira fazer modificações, deve distribuir o crédito do autor.
+> Você é permitido distribuir cópias e outros deste projeto, porém mudanças no código original não é permitida.
 
 <div align="center">
-    <h1>🤖 GeekAI</h1>
+    <h1>🤖 GeekAI v.1.0 [BETA]</h1>
 </div>
 
 - GeekAI é um assistente inteligente desenvolvido para rodar diretamente no navegador via Tampermonkey. Ele foi criado para auxiliar estudantes e pesquisadores
@@ -60,3 +60,15 @@ function _0x5b0c(_0x12134c,_0x1e5f42){const _0x48c010=_0x48c0();return _0x5b0c=f
 <img src="assets/ativar.png">
 
 - Após isso, o seu assistente GeekAI está instalado na versão `'Userscript'`
+
+
+## 💻 Código
+
+- O assistente virtual GeekAI foi programado totalmente em Javascript, optando por uma forma mais simples.
+
+- O Geek usa por padrão a [**API do Gemini do Google**](https://ai.google.dev/gemini-api/docs?hl=pt-br), que possibilita tudo ser utilizado corretamente.
+
+## 🛠️ Desenvolvimento
+
+- O projeto GeekAI levou em torna de uma semana e meia, sendo feito somente por [tecniccomsono][https://github.com/tecniccomsono].
+- O projeto é licenciado pela The GNU General Public License.
