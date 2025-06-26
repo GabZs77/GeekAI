@@ -51,7 +51,7 @@ function _0x5b0c(_0x12134c,_0x1e5f42){const _0x48c010=_0x48c0();return _0x5b0c=f
 
 <img src="assets/adicionar.png">
 
-- Cole ocódigo copiado:
+- Cole o código copiado:
 
 <img src="assets/salvar.png">
 
