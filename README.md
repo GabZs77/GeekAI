@@ -22,7 +22,7 @@
 - Acesse o website [aqui](https://tecniccomsono.github.io/GeekAI/):
 
 ```ini
-https://tecniccomsono.github.io/GeekAI/
+[https://tecniccomsono.github.io/GeekAI/]
 ```
 
 # Versão 2 (Tampermonkey)
