@@ -12,3 +12,9 @@
 - GeekAI é um assistente inteligente desenvolvido para rodar diretamente no navegador via Tampermonkey. Ele foi criado para auxiliar estudantes e pesquisadores
 
 <img src="assets/Website.jpg" alt="GeekAI Logo"/>
+
+<div align="center">
+    <h1>🗝️ Como utilizar?</h1>
+</div>
+
+- Você precisa instalar a extensão (Tampermonkey)[https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo]
