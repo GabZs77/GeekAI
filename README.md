@@ -2,7 +2,9 @@
     <img src="assets/Universallogo.webp" alt="GeekAI Logo" width="150px"/>
 </div>
 
-# GeekAI
+<div align="center">
+    <h1>GeekAI</h1>
+</div>
 
 ![GitHub forks](https://img.shields.io/github/forks/tecniccomsono/GeekAI?style=for-the-badge)
 
