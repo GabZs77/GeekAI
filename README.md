@@ -8,3 +8,5 @@
 <div align="center">
     <h1>🤖 GeekAI</h1>
 </div>
+
+- GeekAI é um assistente inteligente desenvolvido para rodar diretamente no navegador via Tampermonkey. Ele foi criado para auxiliar estudantes e pesquisadores
