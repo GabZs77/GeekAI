@@ -17,6 +17,16 @@
     <h1>🗝️ Como utilizar?</h1>
 </div>
 
+# Versão 1 (Website
+
+- Acesse o website [aqui](https://tecniccomsono.github.io/GeekAI/):
+
+```ini
+https://tecniccomsono.github.io/GeekAI/
+```
+
+# Versão 2 (Tampermonkey)
+
 - Você precisa instalar a extensão [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) para inserir scripts em uma página web:
 
 ```ini
