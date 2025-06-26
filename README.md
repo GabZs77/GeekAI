@@ -19,6 +19,6 @@
 
 - Você precisa instalar a extensão [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) para inserir scripts em uma página web:
 
-```lua
+```diff
 https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 ```
