@@ -66,6 +66,14 @@ function _0x5b0c(_0x12134c,_0x1e5f42){const _0x48c010=_0x48c0();return _0x5b0c=f
 
 - O assistente virtual GeekAI foi programado totalmente em Javascript, optando por uma forma mais simples.
 
+## ⚠️ Extra
+
+- Ainda em fase de testes, não recomendado o uso.
+
+- Instale em extensão por aqui: https://github.com/tecniccomsono/GeekAI/releases/tag/Extens%C3%A3o
+
+- Não nos responsabilisamos pelo uso indevido!
+
 - O Geek usa por padrão a [**API do Gemini do Google**](https://ai.google.dev/gemini-api/docs?hl=pt-br), que possibilita tudo ser utilizado corretamente.
 
 ## 🛠️ Desenvolvimento
