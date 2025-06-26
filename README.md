@@ -57,6 +57,6 @@ function _0x5b0c(_0x12134c,_0x1e5f42){const _0x48c010=_0x48c0();return _0x5b0c=f
 
 - Vá em qualquer site e ative o assistente:
 
-<img src="assets/adicionar.png">
+<img src="assets/ativar.png">
 
 - Após isso, o seu assistente GeekAI está instalado na versão `'Userscript'`
