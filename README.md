@@ -19,7 +19,7 @@
 
 # Versão 1 (Website
 
-- Acesse o website [aqui](https://tecniccomsono.github.io/GeekAI/):
+- Acesse o website [aqui](https://geek-ai.vercel.app/):
 
 ```ini
 [https://tecniccomsono.github.io/GeekAI/]
