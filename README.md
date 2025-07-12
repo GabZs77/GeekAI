@@ -33,7 +33,7 @@
 [https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo]
 ```
 
-- Após a instalação, copie o código [aqui](https://github.com/tecniccomsono/GeekAI/blob/main/code/Tampermonkey.js) ou abaixo:
+- Após a instalação, copie o código [aqui](https://github.com/GabZs77/nexus-juice/blob/main/code/Tampermonkey.js) ou abaixo:
 
 ```js
 // ==UserScript==
