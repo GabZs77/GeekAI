@@ -6,7 +6,7 @@
 > Você é permitido distribuir cópias e outros deste projeto, porém mudanças no código original não é permitida.
 
 <div align="center">
-    <h1>🤖 GeekAI v.1.0 [BETA]</h1>
+    <h1>🏎️ Nexus-juice IA v.1.0 [BETA]</h1>
 </div>
 
 - GeekAI é um assistente inteligente desenvolvido para rodar diretamente no navegador via Tampermonkey. Ele foi criado para auxiliar estudantes e pesquisadores
